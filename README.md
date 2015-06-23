@@ -1,6 +1,5 @@
 # docker-rabbitmq
 
-
 Build
 ```
 docker build -t telminov/rabbitmq .
